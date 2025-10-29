@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidLabs7</string>
+    <string name="label_name">Name:</string>
+    <string name="label_height">Height:</string>
+    <string name="label_mass">Mass:</string>
+    <string name="label_birth_year">Birth Year:</string>
+    <string name="label_gender">Gender:</string>
+
+    <string name="placeholder_fill_me">fill_me</string>
+
+</resources>
